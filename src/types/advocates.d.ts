@@ -1,4 +1,4 @@
-export type TAdvocates = {
+export type TAdvocate = {
   city: string
   degree: string
   firstName: string
